@@ -17,4 +17,5 @@ Vercel is a cloud platform for static sites and serverless functions.
 
 ![Weather app image](image.png)
 
-### Live Link 
+### 📎 Links 
+Here is the live working link of my hosted project: [Weathercaster ](https://weathercaster.vercel.app/)
